@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE / Editor directories
+.vscode/
+.idea/
+
+# Arquivos de ambiente com senhas
+.env
